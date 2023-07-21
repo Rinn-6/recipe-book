@@ -1,0 +1,15 @@
+.container{
+    margin-left: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .heading{
+     text-align: start;
+     margin-left: 5%;
+     text-decoration: underline;
+     font-weight: bold;
+     
+ }
+ .pic{
+    width: 300px;
+    height: 200px;
+} 
